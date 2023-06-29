@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Jim Brown",
+    "email": "icanseeforever@yahoo.com",
+    "password": "password002"
+  },
+  {
+    "name": "Gene Lyle",
+    "email": "bigdad1@hotmail.com",
+    "password": "passwordA1"
+  },
+  {
+    "name": "Gloria Dawn",
+    "email": "bigmom1@hotmail.com",
+    "password": "passwordA10"
+  },
+  {
+    "name": "Colleen Walker",
+    "email": "Walker@gmail.com",
+    "password": "passwordP10"
+  }
+]
