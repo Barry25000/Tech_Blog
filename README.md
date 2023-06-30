@@ -58,6 +58,6 @@ https://vast-taiga-89903-d0aef835372a.herokuapp.com/login
 
 Repo
 
-![Repo]()
+![Repo](https://github.com/Barry25000/Tech_Blog/blob/main/images/repo_screenshot.png)
 
 ![Depolyed]()
