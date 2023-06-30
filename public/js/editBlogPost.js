@@ -1,6 +1,6 @@
 let blogPost = window.location.pathname.split("/");
 
-// Function created allowing user to edit blog posts from the individual blog post page
+// Allows user to edit blog posts from the individual blog post page
 const editPost = async (event) => {
   event.preventDefault();
   console.log("clicked me");
@@ -15,7 +15,7 @@ const editPost = async (event) => {
 
 const editButton = document.querySelectorAll("#editBtn");
 
-// Iterates over all buttons on the page allowing for edit functionality
+// Event listner for edit functionality
 for (let i = 0; i < editButton.length; i++) {
   editButton[i].addEventListener("click", editPost);
 }

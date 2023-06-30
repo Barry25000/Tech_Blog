@@ -1,4 +1,3 @@
-// Imports
 const path = require("path");
 const express = require("express");
 const session = require("express-session");
@@ -15,7 +14,7 @@ const PORT = process.env.PORT || 3001;
 // Set up Handlebars.js engine with custom helpers
 const hbs = exphbs.create({ helpers });
 
-// Sets session cookie properties
+// Sets session cookies
 const sess = {
   secret: "Super secret secret",
   cookie: {
@@ -33,7 +32,7 @@ const sess = {
 
 app.use(session(sess));
 
-// Inform Express.js on which template engine to use
+// Inform Express which template engine to use
 app.engine("handlebars", hbs.engine);
 app.set("view engine", "handlebars");
 

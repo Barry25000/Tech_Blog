@@ -16,26 +16,26 @@ h1 {
   margin-bottom: 5px;
 }
 
-#blogName {
-  color: #ffe5ec;
-}
-
 main {
   font-family: "Jomolhari", serif;
   margin-top: -5px;
   background-color: #a28089;
 }
 
+#blogName {
+  color: #ffe5ec;
+}
+
 .homepage-main {
+  margin-top: 34px;
+}
+
+.blogPost-main {
   margin-top: 34px;
 }
 
 .user-name {
   background-color: #84a59d;
-}
-
-.blogPost-main {
-  margin-top: 34px;
 }
 
 /* Nav styles */
@@ -84,5 +84,5 @@ main {
 .card:hover {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   transform: scale(1.02);
-  transition: all 0.3s ease;
+  transition: all 0.4s ease;
 }

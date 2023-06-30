@@ -1,4 +1,4 @@
-// Function set up so users can create new blog posts
+// Allows users to create new blog posts
 async function newPostHandler(event) {
   event.preventDefault();
 
