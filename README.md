@@ -49,9 +49,15 @@ No tests at this time
 ## Questions
 
 Please direct any questions to.<br>
-Barry Engler and my tutor Nathan Engler as well as help from my instructor and both TA's at barryengler@gmail.com <br>
+barryengler@gmail.com <br>
 [GitHub](https://github.com/Barry25000)
 
 ## Live
 
 https://vast-taiga-89903-d0aef835372a.herokuapp.com/login
+
+Repo
+
+![Repo]()
+
+![Depolyed]()
