@@ -60,4 +60,6 @@ Repo
 
 ![Repo](https://github.com/Barry25000/Tech_Blog/blob/main/images/repo_screenshot.png)
 
+Deployed
+
 ![Depolyed](https://github.com/Barry25000/Tech_Blog/blob/main/images/deployed_screenshot.png)
